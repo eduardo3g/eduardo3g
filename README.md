@@ -1,4 +1,4 @@
-### Hi there 👋
+### Wassup! 👋
 
 <!--
 **eduardo3g/eduardo3g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
