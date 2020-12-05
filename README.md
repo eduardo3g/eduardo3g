@@ -2,23 +2,15 @@
 
 My name is Eduardo Santana and I'm a software Integration Engineer based in São Paulo - Brazil. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
-## &#x1f4c8; GitHub Stats
+## ⚙️ &nbsp;Github Analytics
 
-<a href="https://github.com/eduardo3g/eduardo3g">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo3g&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<p align="center">
+<a href="https://github.com/eduardo3g">
+  <img height="180em" width="49%" margin-right="20px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eduardo3g&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eduardo3g&layout=compact&langs_count=8&theme=react"/>
 </a>
-<a href="https://github.com/eduardo3g/eduardo3g">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardo3g&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
-
-<a href="https://github.com/eduardo3g/ticketing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardo3g&repo=ticketing&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/eduardo3g/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardo3g&repo=twitter&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>  
+</p>
+<br />
 
 <!-- icons with padding -->
 
