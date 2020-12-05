@@ -5,10 +5,10 @@ My name is Eduardo Santana and I'm a software Integration Engineer based in São
 ## ⚙️ &nbsp;Github Analytics
 
 <p align="center">
-<a href="https://github.com/eduardo3g">
-  <img height="180em" width="49%" margin-right="20px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eduardo3g&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eduardo3g&layout=compact&langs_count=8&theme=react"/>
-</a>
+  <a href="https://github.com/eduardo3g">
+    <img height="180em" width="49%" margin-right="20px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eduardo3g&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+    <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eduardo3g&layout=compact&langs_count=8&theme=react"/>
+  </a>
 </p>
 <br />
 
