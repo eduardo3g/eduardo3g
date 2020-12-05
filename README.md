@@ -10,7 +10,6 @@ My name is Eduardo Santana and I'm a software Integration Engineer based in São
     <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eduardo3g&layout=compact&langs_count=8&theme=react"/>
   </a>
 </p>
-<br />
 
 <!-- icons with padding -->
 
