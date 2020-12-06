@@ -5,8 +5,17 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardosbrasil10@gmail.com)](mailto:eduardosbrasil10@gmail.com)
 
 I'm Eduardo, a software Integration Engineer based in São Paulo - Brazil 🇧🇷. I'm passionate about learning new things, especially when it comes to Javascript-based technologies.
-
 <br/>
+
+About me:
+<br/>
+💻 I'm currently a software Integration Engineer at a startup. <br/>
+🏄🏽 Skateboarding is my passion since I was just a kid. <br/>
+🎒 I'm a bachelor's degree in Information Systems by FIAP. <br/>
+🌱 I enjoy to be in touch with Javascript and Serverless technologies. <br/>
+🏴󠁧󠁢󠁥󠁮󠁧󠁿󠁥󠁮󠁧󠁿 Certified in advanced english by Cambridge University. <br/>
+🤝 Feel free to reach me out. I'm a very opened person and I really love to exchange experiences. <br/>
+<br />
 
 <details>
   <summary>:zap: Github Stats</summary>
