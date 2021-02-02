@@ -26,7 +26,7 @@ About me:
 </details>
 
 <details>
-  <summary>:zap: Languages Used</summary>
+  <summary>:zap: Tech Stack</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo3g&layout=compact&bg_color=ffffff&text_color=333333&title_color=222222">
 </details>
 <br/>
