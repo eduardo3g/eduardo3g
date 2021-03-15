@@ -11,7 +11,7 @@ About me:
 <br/>
 💻 I'm currently a software Integration Engineer at a startup. <br/>
 🏄🏽 Skateboarding is my passion since I was just a kid. <br/>
-🎒 I'm a bachelor's degree in Information Systems by FIAP. <br/>
+🎒 I have a bachelor's degree in Information Systems from FIAP. <br/>
 🌱 I enjoy to be in touch with Javascript and Serverless technologies. <br/>
 🏴󠁧󠁢󠁥󠁮󠁧󠁿󠁥󠁮󠁧󠁿 Certified in advanced english by Cambridge University. <br/>
 🤝 Feel free to reach me out. I'm a very opened person and I really love to exchange experiences. <br/>
