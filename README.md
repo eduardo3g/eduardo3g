@@ -9,8 +9,8 @@ I'm Eduardo, a software Integration Engineer based in São Paulo - Brazil 🇧�
 
 About me:
 <br/>
-💻 I'm currently a software Integration Engineer at a startup. <br/>
-🏄🏽 Skateboarding is my passion since I was just a kid. <br/>
+💻 I'm currently a software Engineer at a startup focused on integrations. <br/>
+🏄🏽 Skateboarding is my passion. <br/>
 🎒 I have a bachelor's degree in Information Systems from FIAP. <br/>
 🌱 I enjoy to be in touch with Javascript and Serverless technologies. <br/>
 🏴󠁧󠁢󠁥󠁮󠁧󠁿󠁥󠁮󠁧󠁿 Certified in advanced english by Cambridge University. <br/>
