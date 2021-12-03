@@ -11,7 +11,7 @@ About me:
 <br/>
 💻 I'm currently a Software Engineer at a brazilian startup that provides a platform focused on integrations. <br/>
 🏄🏽 Skateboarding is my favorite hobby. <br/>
-🎒 I have a bachelor's degree in Information Systems. <br/>
+🎒 I have a Bachelor's degree in Information Systems. <br/>
 🌱 I enjoy to be in touch with Javascript and Serverless technologies. <br/>
 🏴󠁧󠁢󠁥󠁮󠁧󠁿󠁥󠁮󠁧󠁿 Certified in advanced english by Cambridge University. <br/>
 🤝 Feel free to reach me out. I'm a very opened person and I really love to exchange experiences. <br/>
