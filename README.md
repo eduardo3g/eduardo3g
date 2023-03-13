@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/scvramella/)](https://www.instagram.com/scvramella/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardosbrasil10@gmail.com)](mailto:eduardosbrasil10@gmail.com)
 
-I'm Eduardo, a Senior Software Engineer based in São Paulo - Brazil 🇧🇷. I'm passionate about learning new things, especially when it comes to Serverless and Javascript-based technologies.
+I'm Eduardo, a Staff Software Engineer based in São Paulo - Brazil 🇧🇷. I'm passionate about learning new things, especially when it comes to Serverless and Javascript-based technologies.
 <br/>
 
 About me:
