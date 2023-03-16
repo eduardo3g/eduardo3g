@@ -9,7 +9,7 @@ I'm Eduardo, a Staff Software Engineer based in São Paulo - Brazil 🇧🇷. I'
 
 About me:
 <br/>
-💻 I'm currently a Senior Software Engineer at Gympass and making wellbeing universal. <br/>
+💻 I'm currently a Staff Software Engineer at Gympass and making wellbeing universal. <br/>
 🏄🏽 Skateboarding is my favorite hobby. <br/>
 🎒 I have a Bachelor's degree in Information Systems. <br/>
 🌱 I enjoy to be in touch with Javascript and Serverless technologies. <br/>
