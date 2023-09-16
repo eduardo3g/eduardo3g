@@ -4,12 +4,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/scvramella/)](https://www.instagram.com/scvramella/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardosbrasil10@gmail.com)](mailto:eduardosbrasil10@gmail.com)
 
-I'm Eduardo, a Staff Software Engineer based in São Paulo - Brazil 🇧🇷. I'm passionate about learning new things, especially when it comes to Serverless and Javascript-based technologies.
+I'm Eduardo, a Back-End Software Engineer based in São Paulo - Brazil 🇧🇷. I'm passionate about learning new things, especially when it comes to Serverless and Javascript-based technologies.
 <br/>
 
 About me:
 <br/>
-💻 I'm currently a Staff Software Engineer at Gympass and making wellbeing universal. <br/>
+💻 I'm currently a Tech Lead Engineer at Gympass and making wellbeing universal. <br/>
 🏄🏽 Skateboarding is my favorite hobby. <br/>
 🎒 I have a Bachelor's degree in Information Systems. <br/>
 🌱 I enjoy to be in touch with Javascript and Serverless technologies. <br/>
