@@ -9,12 +9,12 @@ I'm Eduardo, a Back-End Software Engineer based in São Paulo - Brazil 🇧🇷.
 
 About me:
 <br/>
-💻 I'm currently a Tech Lead Engineer at Gympass and making wellbeing universal. <br/>
+💻 I'm currently a Tech Lead at Gympass and making wellbeing universal. <br/>
 🏄🏽 Skateboarding is my favorite hobby. <br/>
 🎒 I have a Bachelor's degree in Information Systems. <br/>
-🌱 I enjoy to be in touch with Javascript and Serverless technologies. <br/>
-🏴󠁧󠁢󠁥󠁮󠁧󠁿󠁥󠁮󠁧󠁿 Certified in advanced english by Cambridge University. <br/>
-🤝 Feel free to reach me out. I'm a very opened person and I really love to exchange experiences. <br/>
+🌱 I enjoy being in touch with Javascript and Serverless technologies. <br/>
+🏴󠁧󠁢󠁥󠁮󠁧󠁿󠁥󠁮󠁧󠁿 Certified in advanced English by Cambridge University. <br/>
+🤝 Feel free to reach out. I'm a very open person and I love to exchange experiences. <br/>
 <br />
 
 <details>
