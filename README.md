@@ -9,7 +9,7 @@ I'm Eduardo, a Back-End Software Engineer based in São Paulo - Brazil 🇧🇷.
 
 About me:
 <br/>
-💻 I'm currently a Tech Lead at Gympass and making wellbeing universal. <br/>
+💻 I'm currently a Tech Lead at Wellhub (formerly Gympass) and making wellbeing universal. <br/>
 🏄🏽 Skateboarding is my favorite hobby. <br/>
 🎒 I have a Bachelor's degree in Information Systems. <br/>
 🌱 I enjoy being in touch with Javascript and Serverless technologies. <br/>
