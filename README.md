@@ -15,17 +15,3 @@ About me:
 🏴󠁧󠁢󠁥󠁮󠁧󠁿󠁥󠁮󠁧󠁿 Certified in advanced English by Cambridge University. <br/>
 🤝 Feel free to reach out. I'm a very open person and I love to exchange experiences. <br/>
 <br />
-
-<details>
-  <summary>:zap: Github Stats</summary>
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=eduardo3g&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff&include_all_commits=true&count_private=true"> -->
-  
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=eduardo3g&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff&include_all_commits=true&count_private=true"/>
-  
-</details>
-
-<details>
-  <summary>:zap: Tech Stack</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo3g&layout=compact&bg_color=ffffff&text_color=333333&title_color=222222">
-</details>
-<br/>
